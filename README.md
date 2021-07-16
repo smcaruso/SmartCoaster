@@ -15,3 +15,5 @@ The first prototype coaster uses four WS2812B RGB LED chips and the Adafruit Neo
 The second prototype uses four-pin common cathode RGB LEDs connected to three PWM pins on the microcontroller. Color values are set by directly analogWriting to the R, G and B pins. Since all the lights are showing the same color value, this seems like a simpler solution.
 
 V2 also introduced a potentiometer control for setting the alert time.
+
+![V2 board wiring diagram](https://raw.githubusercontent.com/smcaruso/SmartCoaster/main/Artboard%201.png)
